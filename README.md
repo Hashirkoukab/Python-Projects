@@ -24,4 +24,4 @@ Step 10: Trained the chatbot
 Step 11: Created CSS style sheet to add design and work on UI/UX
 
 Step 12: Published the chatbot for users to access it with this provided link:
-https://webchat-styler-css.botpress.app/prod/b4efd572-eb53-4e5f-843e-e1c054b3e115/v64596/style.css
+https://mediafiles.botpress.cloud/a3b82940-6604-46b8-a564-dad601bd06bf/webchat/bot.html
