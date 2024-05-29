@@ -47,3 +47,5 @@ Step 5: Created loops to run the same code block 2000 times in order to create s
 Step 6:Added more colors using RGB code and made is visually appealing.
 
 Here is the final look of my drawing with Python:
+
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Module%201%20Final%20Project.txt)
