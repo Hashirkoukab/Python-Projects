@@ -25,8 +25,9 @@ Step 11: Created CSS style sheet to add design and work on UI/UX
 
 Step 12: Published the chatbot for users to access it with this provided link:
 
-![](https://github.com/Hashirkoukab/My-Projects/blob/main/Screenshots/Chat.PNG)
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Chat(3).png)
+
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Chat(2).PNG)
 
 
 
