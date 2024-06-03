@@ -29,7 +29,7 @@ Step 12: Published the chatbot for users to access it with this provided link:
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Chat(2).PNG)
 
-
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Chat.PNG)
 
 #Python Geometrical Shapes Project - Module 1 Tech Harbour
 
