@@ -50,3 +50,16 @@ Step 6:Added more colors using RGB code and made is visually appealing.
 Here is the final look of my drawing with Python:
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Python%20Module%201.png)
+
+
+# Python Programming Quiz
+
+Step 1: Used  basic python to create a quiz of Marvel characters
+
+Step 2: Purpose of the quiz is to ask a few questions and assess the personality of the user, matching the characteristics of user to all marvel characters on the basis of data collected.
+
+Step 3: Created input box to capture the user answers and save in the variable called Q1 and Q22.
+
+Step 4: Used if statements and functions to run the input answers to meet certain conditions in order to match characteristics with marvel characters.
+
+Step 5: Final result shows your personality matching the specific marvel character.
