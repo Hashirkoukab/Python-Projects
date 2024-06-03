@@ -26,7 +26,6 @@ Step 11: Created CSS style sheet to add design and work on UI/UX
 Step 12: Published the chatbot for users to access it with this provided link:
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Screenshots/Chat.PNG)
-[https://mediafiles.botpress.cloud/a3b82940-6604-46b8-a564-dad601bd06bf/webchat/bot.html](https://github.com/Hashirkoukab/My-Projects/blob/main/T.PNG)
 
 
 
