@@ -31,7 +31,7 @@ Step 12: Published the chatbot for users to access it with this provided link:
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Chat.PNG)
 
-#Python Geometrical Shapes Project - Module 1 Tech Harbour
+#Python Geometrical Shapes - Module 1 Tech Harbour
 
 Created Python Project In first module during Tech Harbour Course
 
