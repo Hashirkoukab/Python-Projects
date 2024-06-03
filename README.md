@@ -64,4 +64,4 @@ Step 4: Used if statements and functions to run the input answers to meet certai
 
 Step 5: Final result shows your personality matching the specific marvel character:
 
-![](
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Python%20Quiz/Python%20Quiz%20Screenshot.png)
