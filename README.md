@@ -62,4 +62,6 @@ Step 3: Created input box to capture the user answers and save in the variable c
 
 Step 4: Used if statements and functions to run the input answers to meet certain conditions in order to match characteristics with marvel characters.
 
-Step 5: Final result shows your personality matching the specific marvel character.
+Step 5: Final result shows your personality matching the specific marvel character:
+
+![](
