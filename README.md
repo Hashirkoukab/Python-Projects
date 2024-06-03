@@ -49,4 +49,4 @@ Step 6:Added more colors using RGB code and made is visually appealing.
 
 Here is the final look of my drawing with Python:
 
-![](https://github.com/Hashirkoukab/My-Projects/blob/main/Module%201%20Final%20Project.txt)
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Python%20Module%201.png)
