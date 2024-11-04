@@ -65,3 +65,46 @@ Step 4: Used if statements and functions to run the input answers to meet certai
 Step 5: Final result shows your personality matching the specific marvel character:
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Python%20Quiz/Python%20Quiz%20Screenshot.png)
+
+
+# Power BI Data Visualisation
+I have created the visualization report of a Cookie Company for three years sales, profit, risks, monthly and yearly revenue and
+overall business overview through visualization of the data found in their sheetes.
+
+
+Step 1: Gathered data from different sources i.e database, website, and inventory regoinal files.
+
+Step 2: Cleaned the data using Power Query and Exel.
+
+Step 3: Loaded all datasets into Power Query Editor for intial cleaning, where I removed unnecessary columns,
+handeled missing data, and standardized formats (e.g.< dates and currencies ).
+
+Step 4: Applied transformations such as filtering rows, splitting columns, and creating calculated columns for essential metrics (like "Total Revenue" and
+"Sales Growth").
+
+Step 5: Used "Merge" and "Append" functions to combine tables, ensuring a seamless link between tables to enable accurate, integrated analysis across data sources
+and customer insights.
+
+Step 6: Performed Data Modeling, established relationships between tables to enable accurate, integrated anlysis across data sources
+(e.g., linked "Customer ID" across sales and feed back tables).
+
+Step 7: Created visualizations, presented sales data in donut chart, showing sum of units sold by country.
+
+Step 8: Presented Sum of Revenue by Date and Location a beautiful clustered stacked bar chart.
+
+Step 9: Created a stacked bar chart to visualize sum of profit by location.
+
+Step 10: Added a table at the top of the dashboard to present an overview of all the data and visualizations we created,
+including country name, date, day, time, sum of profits, units sold, product name, sum of revenue.
+
+Step 11: Added a slicer on top right corner to select location wise data on each visual we created.
+
+Step 12: Then I created a live dynamic Map visual we created.
+
+Step 13: Added a Slicer on page 1 to select country wise data with a single click.
+
+Step 14: I created a colorful pie chart to show our monthly and yearly revenue by date.
+
+Step 15: To visualize the yearly profit by date I created a Line Chart to easily see profit date wise.
+
+Step 16: Created Mobile-App version and Web-App dashboard to present data to our client easily on both the platforms.
