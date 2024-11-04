@@ -108,3 +108,6 @@ Step 14: I created a colorful pie chart to show our monthly and yearly revenue b
 Step 15: To visualize the yearly profit by date I created a Line Chart to easily see profit date wise.
 
 Step 16: Created Mobile-App version and Web-App dashboard to present data to our client easily on both the platforms.
+
+
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Power%20BI%20(1).png)
