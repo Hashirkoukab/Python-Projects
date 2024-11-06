@@ -123,4 +123,53 @@ Step 16: Created Mobile-App version and Web-App dashboard to present data to our
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Power%20BI%20(6).png)
 
 # Cleaning and Analyzing Student Scores with NumPy
+
+Introduction
+This project demonstrates how to clean a dataset with missing values and calculate basic statistics (mean, maximum, and minimum) using Python and the NumPy library. Here’s a detailed breakdown of each step, from setting up the data to the final analysis.
+
+Step 1: Setting Up the Project
+Import Libraries:
+First, I imported the necessary library, NumPy, which provides powerful tools for numerical data manipulation and analysis.
+
+Step 2: Initializing the Data
+Creating the Dataset:
+I created a dataset with sample scores and introduced a few missing values. Missing values were represented as None to simulate incomplete data.
+
+Step 3: Filtering Out Missing Values
+Handling Missing Data:
+To calculate an average without including missing values, I filtered out None values from the dataset. This allowed me to compute the mean of the available scores accurately.
+
+Step 4: Calculating the Average Score
+Finding the Mean of the Filtered Data:
+With the filtered dataset, I calculated the average (mean) score, which would later be used to fill in the missing values.
+
+Step 5: Replacing Missing Values
+Filling Missing Values with the Mean:
+I replaced all None values in the original dataset with the calculated average. This resulted in a "cleaned" dataset with no missing values.
+
+Step 6: Calculating Basic Statistics
+Finding Mean, Maximum, and Minimum of Cleaned Data:
+I used NumPy functions to calculate key statistics on the cleaned dataset. These included:
+Mean: The overall average score
+Maximum: The highest score
+Minimum: The lowest score
+
+Step 7: Displaying the Results
+Printing the Results:
+Finally, I printed the calculated mean, maximum, and minimum scores to display a summary of the cleaned data.
+
+Conclusion
+In this project, I successfully:
+
+Created a dataset with missing values.
+Replaced missing values with the mean to complete the dataset.
+Used NumPy to calculate key statistical metrics.
+This project highlights my ability to handle missing data, clean datasets, and extract useful insights using basic statistical functions in Python.
+
+Future Improvements
+To expand on this project, I could:
+
+Add visualizations of the cleaned data.
+Experiment with different methods to handle missing data
+
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Numpy%20Module%202%20Project.png)
