@@ -122,4 +122,5 @@ Step 16: Created Mobile-App version and Web-App dashboard to present data to our
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Power%20BI%20(6).png)
 
-![]()
+# Cleaning and Analyzing Student Scores with NumPy
+![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Numpy%20Module%202%20Project.png)
