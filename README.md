@@ -173,3 +173,43 @@ Add visualizations of the cleaned data.
 Experiment with different methods to handle missing data
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Numpy%20Module%202%20Project.png)
+
+# SeaBorn Librarys
+
+This project uses Matplotlib and Seaborn to analyze and visualize the dataset. Matplotlib allows custom plotting, while Seaborn simplifies statistical visualizations and uncovers 
+insights.
+
+Step 1: Begin by importing the necessary libraries. You will need Matplotlib for creating various plots and Seaborn for making statistical plots.
+
+Step 2: Load your dataset into a Pandas DataFrame. For example, we can use a sample dataset like seaborn’s built-in tips dataset or a custom CSV file.
+
+Step 3: It’s important to understand the structure of the dataset to know which columns to visualize.
+
+Step 4: Perform any necessary data cleaning steps, such as handling missing values, converting columns, or dropping unnecessary columns.
+
+Step 5: Create a simple plot to get started with Matplotlib. You can plot basic charts like line plots, bar charts, histograms, etc.
+
+Step 6: Seaborn is great for statistical plots. You can create visualizations like scatter plots, box plots, violin plots, and more, with less code.
+
+Step 7: Both Matplotlib and Seaborn allow for extensive customization of plots, including adjusting labels, titles, and colors.
+
+Step 8: If you want to compare multiple plots in one figure, you can use subplots in Matplotlib.
+
+Step 9: Once your plot looks the way you want, you can save it as an image or other formats.
+
+Step 10: For interactive plots, you can use plotly or matplotlib with mpl_toolkits, but Matplotlib and Seaborn don't provide built-in interactivity. Alternatively, use seaborn's 
+built-in FacetGrid or matplotlib's interactive mode.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
