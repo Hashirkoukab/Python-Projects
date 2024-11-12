@@ -204,12 +204,10 @@ Here are some Examples:
 
 ![Figure 1:](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Figure%201.png)
 
+![Figure 2:](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Figure%202.png)
 
+![Figure 3:](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Figure%203.png)
 
-
-
-
-
-
-
-
+In conclusion, Matplotlib and Seaborn were essential tools in analyzing and visualizing the dataset. By combining Matplotlib's flexibility and Seaborn's ease of use for statistical 
+plots, I was able to uncover valuable insights and present the data in a clear, impactful way. These visualizations provide a solid foundation for decision-making and further 
+analysis.
