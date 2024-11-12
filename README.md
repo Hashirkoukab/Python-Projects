@@ -200,9 +200,9 @@ Step 9: Once your plot looks the way you want, you can save it as an image or ot
 Step 10: For interactive plots, you can use plotly or matplotlib with mpl_toolkits, but Matplotlib and Seaborn don't provide built-in interactivity. Alternatively, use seaborn's 
 built-in FacetGrid or matplotlib's interactive mode.
 
+Here are some Examples:
 
-
-
+![Figure 1:](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Figure%201.png)
 
 
 
