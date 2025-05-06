@@ -1,4 +1,4 @@
-# Hiring Buddy - Resume(CV) Selector App
+# 🧠 Hiring Buddy - 📄 Resume(CV) Selector App
 Created a Resume Selector App using Generative AI & Python Programming
 
 App Features:
