@@ -1,15 +1,61 @@
+# Hiring Buddy - Resume(CV) Selector App
+Created a Resume Selector App using Generative AI & Python Programming
+
+App Features:
+Upload multiple CVs (PDF/DOCX)
+
+Enter job description
+
+Use a free model to match CVs against JD
+
+Score and rank the CVs
+
+Display results in an interactive table
+Tools & Libraries (All Free):
+Streamlit (UI)
+
+Langchain + HuggingFace open-source LLM (e.g., mistralai/Mistral-7B-Instruct)
+
+PyMuPDF or docx2txt (to extract CV text)
+
+Sentence Transformers (semantic similarity)
+
+Pandas (data handling)
+Step 1 : We used sentence-transformers/all-MiniLM-L6-v2
+Step 2 : Installed Python packages streamlit
+
+PyMuPDF (for reading PDFs)
+
+sentence-transformers (for AI matching)
+
+docx (for reading Word files)
+
+Step 3: Built the core matching logic
+I added code to:
+
+Upload multiple CV files
+
+Extract text from PDF/DOCX
+
+Use AI model (all-MiniLM-L6-v2) to compare CVs with job description
+Created results table
+Step 4:  displayed ranked CVs based on similarity score in a DataFrame with download option.
+
+![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Images/CV%20Selector%20(1).jpg)
+![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Images/CV%20Selector%20(2).jpg)
+
 # Chatbot
-Created a chatbot using Botpress
+Created a Chatbot using Botpress
 
-step 1: Signed up for the Botpress tool
+Step 1: Signed up for the Botpress tool
 
-step 2: Created a blank chatbot from scratch
+Step 2: Created a blank chatbot from scratch
 
-step 3: Started with a manual welcome node
+Step 3: Started with a manual welcome node
 
-step 4: Created multiple standard nodes for incorporating the data as manual answers
+Step 4: Created multiple standard nodes for incorporating the data as manual answers
 
-step 5: Created knowledge base for the chatbot
+Step 5: Created knowledge base for the chatbot
 
 Step 6: Trained the chatbot on provided data  in the knowledge base 
 
