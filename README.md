@@ -270,6 +270,9 @@ Step 2: The Application is built using Python, JavaScript & Coding Blocks from c
 Step 3: When the user inputs the information required by the application, the user is  automatically redirected to the prediction page. 
 where they can find the breed of the animal & some other information about animals.
 
+
+
+
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%201.jpg)
 
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%202.jpg)
