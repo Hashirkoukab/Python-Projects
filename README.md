@@ -271,6 +271,9 @@ Step 3: When the user inputs the information required by the application, the us
 where they can find the breed of the animal & some other information about animals.
 
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%201.jpg)
+
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%202.jpg)
+
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%203.jpg)
+
 ![](https://github.com/Hashirkoukab/Python-Projects/blob/main/Animal%20Breed%20Prediction%20Screen%204.jpg)
