@@ -220,7 +220,7 @@ Experiment with different methods to handle missing data
 
 ![](https://github.com/Hashirkoukab/My-Projects/blob/main/Images/Numpy%20Module%202%20Project.png)
 
-# SeaBorn Librarys
+# SeaBorn Libraries
 
 This project uses Matplotlib and Seaborn to analyze and visualize the dataset. Matplotlib allows custom plotting, while Seaborn simplifies statistical visualizations and uncovers 
 insights.
@@ -257,3 +257,17 @@ Here are some Examples:
 In conclusion, Matplotlib and Seaborn were essential tools in analyzing and visualizing the dataset. By combining Matplotlib's flexibility and Seaborn's ease of use for statistical 
 plots, I was able to uncover valuable insights and present the data in a clear, impactful way. These visualizations provide a solid foundation for decision-making and further 
 analysis.
+
+
+# Animal Breed Prediction
+
+During the Machine Learning & AI Course, I created the Animal Breed Prediction Application. The functionalities of the Application are as below:
+
+Step 1: Design the application to predict animal breeds based on a few questions from the user and the data integrated into the model.
+
+Step 2: The Application is built using Python, JavaScript & Coding Blocks from code.org.
+
+Step 3: When the user inputs the information required by the application, the user is  automatically redirected to the prediction page. 
+where they can find the breed of the animal & some other information about animals.
+
+![]()
